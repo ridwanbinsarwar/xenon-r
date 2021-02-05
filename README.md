@@ -7,8 +7,8 @@
 </p>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xenon-r&layout=compact&bg_color=00000000&text_color=043667)](https://github.com/anuraghazra/github-readme-stats)
-![Asif's github stats](https://github-readme-stats.vercel.app/api/?username=xenon-r&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xenon-r&layout=compact&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Asif's github stats](https://github-readme-stats.vercel.app/api/?username=xenon-r&show_icons=true&&theme=radical)
 
 </div
 

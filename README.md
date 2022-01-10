@@ -1,5 +1,5 @@
 ### Welcome 👋
-Check my portfolio https://www.ridwanbinsarwar.me 
+Check out my portfolio https://www.ridwanbinsarwar.me 
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xenon-r&layout=compact&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
